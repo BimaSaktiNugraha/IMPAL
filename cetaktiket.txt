@@ -1,0 +1,4 @@
+A123	BIMA_SAKTI	Bandung		Jakarta		2019/10/10
+A222	RENO_BUT	Garut		Tasik		2019/10/12
+A444	FERDIAN_AK	Bandung		Jogja		2019/10/11	
+A212	RAJABANDANU	Tangerang	Bandung		2019/10/21
